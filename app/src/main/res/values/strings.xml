@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Stanley Umezuruike</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Hello, I am Stanley Umezuruike aka CodeHunta.
+        \n\nI am an Android Developer and a Pythonista!
+        \n\nHippie!!!
+        \n\nmsg = "hello world!"
+        \nprint(msg)
+
+        \na = 4
+        \nb = 3
+        \nc = (a**2 + b**2) #exponential operator
+        \nx = math.sqrt(c) #square root operator
+        \ny = x % 2  #modulus operator
+        \nprint("The square root of ", c, " is ", x)
+        \nprint(y)\n
+        \n\nmsg = "hello world!"
+        \nprint(msg)
+
+        \na = 4
+        \nb = 3
+        \nc = (a**2 + b**2) #exponential operator
+        \nx = math.sqrt(c) #square root operator
+        \ny = x % 2  #modulus operator
+        \nprint("The square root of ", c, " is ", x)
+        \nprint(y)\n
+        \n\nmsg = "hello world!"
+        \nprint(msg)
+
+        \na = 4
+        \nb = 3
+        \nc = (a**2 + b**2) #exponential operator
+        \nx = math.sqrt(c) #square root operator
+        \ny = x % 2  #modulus operator
+        \nprint("The square root of ", c, " is ", x)
+        \nprint(y)\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">DONE!</string>
+</resources>
